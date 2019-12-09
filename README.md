@@ -1,1 +1,2 @@
-# pbo-project2
+# project-pbo
+PROJECT PBO SAMA RIGEL BIKIN SISTEM INFORMASI NILAI
